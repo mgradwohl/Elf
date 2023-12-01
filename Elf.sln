@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34321.82
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Elf", "Elf.vcxproj", "{725268F1-4982-4A1B-93CC-A0CD8081CBBE}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{725268F1-4982-4A1B-93CC-A0CD8081CBBE}.Debug|x64.ActiveCfg = Debug|x64
+		{725268F1-4982-4A1B-93CC-A0CD8081CBBE}.Debug|x64.Build.0 = Debug|x64
+		{725268F1-4982-4A1B-93CC-A0CD8081CBBE}.Debug|x86.ActiveCfg = Debug|Win32
+		{725268F1-4982-4A1B-93CC-A0CD8081CBBE}.Debug|x86.Build.0 = Debug|Win32
+		{725268F1-4982-4A1B-93CC-A0CD8081CBBE}.Release|x64.ActiveCfg = Release|x64
+		{725268F1-4982-4A1B-93CC-A0CD8081CBBE}.Release|x64.Build.0 = Release|x64
+		{725268F1-4982-4A1B-93CC-A0CD8081CBBE}.Release|x86.ActiveCfg = Release|Win32
+		{725268F1-4982-4A1B-93CC-A0CD8081CBBE}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BFD18E2F-7402-40FE-8C04-192456A4E585}
+	EndGlobalSection
+EndGlobal
